@@ -1,0 +1,76 @@
+h1{
+	color: green;
+	text-decoration: underline;
+	font-style: italic;
+
+}
+h2{
+	background: rosybrown;
+	color: blue;}
+
+	h3{
+		color: red;}
+		h6 li{  
+			font-size: 20px;
+			text-decoration: underline;
+			display: inline ;
+			padding-inline: 45px;
+
+		}
+
+
+		body{
+			background-color: darkgrey;
+
+			padding-top: 40px;
+			padding-bottom: 40px;
+			padding-left: 40px;
+			padding-right: 40px;}
+
+
+
+		header{
+				background-color: orange;
+				text-align: center;
+				font-family: Courier,monospace;
+				font-style: italic;
+				font-size:20px;
+				line-height: 2.3em;
+				border: brown dotted;
+				border-radius: 30px;
+				padding-left: 80px;
+				padding-right:80px;
+			}
+
+				a:hover{
+					color:orangered;
+				}
+				label{padding: 50px;
+					display: table-row-group;
+
+
+
+				}
+				textarea{
+					width: 400px;
+					background-color: orange;
+					height: 200px;
+					border-radius: 30px;}
+
+					input:hover{
+						color: red;
+						background-color:skyblue;
+						border-radius: 30px;
+					}
+					select:hover{
+						color: red;
+						background-color:skyblue;
+						border-radius: 30px;}
+
+
+						button:hover{
+							color: red;
+							background-color:skyblue;
+							border-radius: 30px;}
+
+
